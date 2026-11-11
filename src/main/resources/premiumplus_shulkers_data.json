@@ -1,0 +1,18 @@
+[
+  {
+    "id": "premiumplus_kit_1",
+    "name": "<gold>★ Premium+ Кит",
+    "items": [
+      {
+        "material": "NETHERITE_SWORD",
+        "amount": 1,
+        "enchants": ["sharpness:5", "looting:3"],
+        "lore": ["<gold>Премиум+ оружие"]
+      },
+      {
+        "material": "ENCHANTED_GOLDEN_APPLE",
+        "amount": 3
+      }
+    ]
+  }
+]

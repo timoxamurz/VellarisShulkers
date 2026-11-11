@@ -1,0 +1,35 @@
+[
+  {
+    "id": "starter_kit",
+    "name": "<green>Стартовый набор",
+    "items": [
+      {
+        "material": "DIAMOND_SWORD",
+        "amount": 1,
+        "lore": ["<gray>Меч новичка"]
+      },
+      {
+        "material": "GOLDEN_APPLE",
+        "amount": 5
+      },
+      {
+        "material": "OAK_PLANKS",
+        "amount": 64
+      }
+    ]
+  },
+  {
+    "id": "builder_kit",
+    "name": "<aqua>Набор строителя",
+    "items": [
+      {
+        "material": "STONE",
+        "amount": 64
+      },
+      {
+        "material": "GLASS",
+        "amount": 32
+      }
+    ]
+  }
+]

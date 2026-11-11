@@ -1,0 +1,28 @@
+name: VellarisShulkers
+description: $description
+version: '1.3.3.7'
+
+main: su.vellaris.shulkers.VelShulkers
+api-version: '1.21'
+load: POSTWORLD
+
+authors: [ vellaris devs ]
+
+commands:
+  velshulkers:
+    description: Основная команда
+    usage: /velshulkers <open|giverandom|reload>
+    aliases: [vels, vs]
+permissions:
+  velshulkers.admin:
+    description: Доступ к меню управления
+    default: op
+  velshulkers.giverandom:
+    description: Право на раздачу
+    default: op
+  velshulkers.premium:
+    description: Premium донат
+    default: false
+  velshulkers.premiumplus:
+    description: Premium+ донат
+    default: false

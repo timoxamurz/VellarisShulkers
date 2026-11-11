@@ -1,0 +1,51 @@
+[
+  {
+    "id": "premium_kit_1",
+    "name": "<gold>★ Premium Кит",
+    "items": [
+      {
+        "material": "DIAMOND_SWORD",
+        "amount": 1,
+        "enchants": ["sharpness:3", "looting:1"],
+        "lore": ["<gold>Премиум оружие"]
+      },
+      {
+        "material": "GOLDEN_APPLE",
+        "amount": 3
+      }
+    ]
+  },
+  {
+    "id": "premium_armor_kit",
+    "name": "<gold>★ Набор с украшениями",
+    "items": [
+      {
+        "material": "DIAMOND_CHESTPLATE",
+        "amount": 1,
+        "trim": {
+          "material": "quartz",
+          "pattern": "ward"
+        },
+        "enchants": ["protection:4", "unbreaking:3"],
+        "lore": ["<gray>Чешуйчатый страж"]
+      },
+      {
+        "material": "NETHERITE_BOOTS",
+        "amount": 1,
+        "trim": {
+          "material": "gold",
+          "pattern": "snout"
+        },
+        "enchants": ["feather_falling:4"]
+      },
+      {
+        "material": "DIAMOND_HELMET",
+        "amount": 1,
+        "trim": {
+          "material": "lapis",
+          "pattern": "sentry"
+        }
+      }
+    ]
+  }
+]
